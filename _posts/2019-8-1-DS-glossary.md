@@ -75,11 +75,13 @@ Still working on the 'advanced' and 'very advanced' sections!
 * [corpus (text)](https://en.wikipedia.org/wiki/Text_corpus)
 * Gini index
 * hidden Markov models
+* [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution) (hypergeometric test) 
 * [LDA (linear discriminant analysis)](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 * [LSA (latent semantic analysis)](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
 * Markov chain
 * Monte Carlo (Markov chain Monte Carlo)
 * [n-gram](https://en.wikipedia.org/wiki/N-gram)
+* [Non Negative Matrix Factorization](https://github.com/crittersik/crittersik.github.io.git)
 * [recommender system](https://en.wikipedia.org/wiki/Recommender_system)
 * RNN - recurrent neural network
 * [t-SNE (t-distributed stochastic neighbor embedding)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
