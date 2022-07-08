@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Data scientist with theoretical physics background
+Machine Learning Engineer or data scientist, who knows?
 
