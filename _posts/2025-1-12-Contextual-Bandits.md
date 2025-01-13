@@ -107,4 +107,4 @@ contextual_rewards = thompson_sampling_contextual(N_USERS, user_ages)
 
 And this illustrates how much you can gain in rewards:
 
-![Cumulative Rewards Comparison](images/ts_comparison.png)
+![Cumulative Rewards Comparison](_posts/images/ts_comparison.png)
